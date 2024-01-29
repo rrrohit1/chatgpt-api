@@ -15,3 +15,14 @@
     - Instruct the model to work out its own solution, without rushing to a conclusion
   
   **Limitations**:  Hallucination: make statements which are plausible but not true. A way to reduce it is to first find relevant info and then answer the question based on the info.
+
+## Iterative Prompt Development
+
+Idea -> Implementation -> Experiment -> Error Analysis
+
+## Applications
+1. Summarizing
+2. Inferring
+3. Transforming
+4. Expanding
+5. Chatbot
